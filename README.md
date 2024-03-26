@@ -1,4 +1,4 @@
-### Hi there 👋 | 
+### Hi there 👋
 #### My Talents:
   - I can center a div. (flex,jc (justify-center) ,ic (items-center) and bam it goes to center).
   - Expert at naming functions/variables.
