@@ -1,6 +1,6 @@
 ### Hi there 👋
 #### My Talents:
-  - I can center a div. (flex,jc (justify-center) ,ic (items-center) and bam it goes to center).
+  - I can center a div. (flex + jc (justify-center) + ic (items-center) and bam it goes to center).
   - Expert at naming functions/variables.
   - Cache validation, ez dub, been there before!
   - I use **NeoVim** btw.
