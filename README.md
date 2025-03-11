@@ -1,6 +1,5 @@
 ### Hi there 👋
 #### My Talents:
-  - I use Linux as my Base OS. Ricing ? **Done**, neovim + tmux ? **Done** , Window tiling + Hotkey setup ? **Done and Done**!
   - I can center a div. (flex + jc (justify-center) + ic (items-center) and bam it goes to center).
   - Expert at naming functions/variables.
   - Cache validation, 😏 ez dub, been there before!
